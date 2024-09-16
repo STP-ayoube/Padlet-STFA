@@ -4,10 +4,10 @@
 
 ## Introduction
 
-<p><span style="font-weight: bold">**Padlet. Padlet.**</span> Un outil conçu pour créer un tableau intéractif. Intinialement créée pour les professeurs, ils se sont dit que d'augmenter les prix et faire un <span style="font-weight: bold; font-style: italic;">fois 10</span> serait pas mal ! (14k € par an dans le lycée...)
-<br>
-On doit se révolter face à cette <span style="font-decoration: underline">*injustice*</span>, c'est pour cela que le projet  <span style="font-weight: bold; font-style: italic; font-decoration: underline">Padlet StFa 🚀</span> est venu à ce jour !
-</p>
+**Padlet. Padlet.** Un outil conçu pour créer un tableau intéractif. Intinialement créée pour les professeurs, ils se sont dit que d'augmenter les prix et faire unfois 10 serait pas mal ! (14k € par an dans le lycée...)
+
+On doit se révolter face à cette <span style="font-decoration: underline">*injustice*</span>, c'est pour cela que le projet Padlet StFa 🚀 est venu à ce jour !
+
 
 ## Projet
 
