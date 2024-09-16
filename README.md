@@ -4,9 +4,9 @@
 
 ## Introduction
 
-**Padlet. Padlet.** Un outil conçu pour créer un tableau intéractif. Intinialement créée pour les professeurs, ils se sont dit que d'augmenter les prix et faire unfois 10 serait pas mal ! (14k € par an dans le lycée...)
+**Padlet. Padlet.** Un outil conçu pour créer un tableau intéractif. Intinialement créée pour les professeurs, ils se sont dit que d'augmenter les prix et faire un ***fois 10*** serait pas mal ! (14k € par an dans le lycée...)
 
-On doit se révolter face à cette <span style="font-decoration: underline">*injustice*</span>, c'est pour cela que le projet Padlet StFa 🚀 est venu à ce jour !
+On doit se révolter face à cette *injustice*, c'est pour cela que le projet ___***Padlet StFa***___ 🚀 est venu à ce jour !
 
 
 ## Projet
@@ -16,14 +16,14 @@ Ce projet consiste à refaire un Padlet (beaucoup moins chère et de meilleur qu
 # Prérequis
 
 IDE :
-- VSCode (de préférence, pour avoir les changements en directs)
+- **VSCode** (de préférence, pour avoir les changements en directs)
 
 Application :
-- GIT (permet de push, commit changes, etc... de manière rapide, et qui complète VSCode)
+- **GIT** (permet de push, commit changes, etc... de manière rapide, et qui complète VSCode)
 
 Autre :
-- Cerveau (utile)
-- Compétence en programmation (html, css, js, NoSQL, framework...)
+- **Cerveau** (utile)
+- **Compétence en programmation** (html, css, js, NoSQL, framework...)
 
 # Développeur
 
