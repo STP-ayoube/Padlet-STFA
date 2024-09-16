@@ -13,7 +13,7 @@ On doit se révolter face à cette *injustice*, c'est pour cela que le projet __
 
 Ce projet consiste à refaire un Padlet (beaucoup moins chère et de meilleur qualité 👀) durant cette année 2024-2025.
 
-# Prérequis
+### Prérequis
 
 IDE :
 - **VSCode** (de préférence, pour avoir les changements en directs)
@@ -25,7 +25,7 @@ Autre :
 - **Cerveau** (utile)
 - **Compétence en programmation** (html, css, js, NoSQL, framework...)
 
-# Développeur
+### Développeur
 
 Faîtes de la place pour ces élus :
 - M. DELLIS (Professeur)
@@ -37,4 +37,6 @@ Faîtes de la place pour ces élus :
 - Arthur
 - Mathis (il n'est pas dans le groupe teams :snif:
 
-  
+  ## Mention honorable
+
+  Méchant Padlet.
