@@ -37,6 +37,6 @@ Faîtes de la place pour ces élus :
 - Arthur
 - Mathis (il n'est pas dans le groupe teams :snif:
 
-  ## Mention honorable
+## Mention honorable
 
-  Méchant Padlet.
+Méchant Padlet.
