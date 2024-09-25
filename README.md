@@ -35,7 +35,7 @@ Faîtes de la place pour ces élus :
 - Justin
 - Ayoube (moi)
 - Arthur
-- Mathis (il n'est pas dans le groupe teams :snif:)
+- Mathis
 
 ## Mention honorable
 
