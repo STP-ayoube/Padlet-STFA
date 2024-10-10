@@ -1,0 +1,46 @@
+.mdp{
+   position: absolute;
+   border-radius: 20px;
+   font-size:15px;
+   color: black;
+   background-color: grey;
+   box-shadow: 0 0 5px #000,
+               0 0 10px #000;
+}
+
+.connexion {
+ position: absolute;
+ border-radius: 20px;
+ font-size: 15px;
+ color: black;
+ background-color: grey;
+ right: 30px;
+ width: 100px;
+ top: 55px;
+ z-index: 1;
+ box-shadow: 0 0 5px #000,
+             0 0 10px #000;
+ cursor: pointer;
+ text-align: center;
+ text-decoration: none;
+ height: 30px;
+}
+
+.Modal {
+   height: 350px;
+   width: 30%;
+   padding-top: 10px;
+   background-color: grey;
+   text-align: center;
+   color: Black;
+   position:fixed ;
+   top: 60px;
+   z-index: 2;
+}   
+
+.neon{
+   box-shadow: 0 0 5px #000,
+               0 0 10px #000;
+}
+   
+  

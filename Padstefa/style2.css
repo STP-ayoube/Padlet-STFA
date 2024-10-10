@@ -1,0 +1,53 @@
+body{
+    background : url("images.jpeg") center/cover fixed no-repeat ;
+    overflow-x: hidden;
+}
+
+.annule{
+    position: fixed;
+    border-radius: 20px;
+    font-size:15px;
+    color: black;
+    background-color: grey;
+    box-shadow: 0 0 5px #000,
+                0 0 10px #000;
+    height: 20px;
+    right: 30px;
+    width: 100px;
+    top: 55px;
+    height: 30px;
+}
+
+.annule a{
+    color: black;
+    font-size: 15px;
+    text-decoration: none;
+    padding-left: 25%;
+}
+
+.verif{
+    position: fixed;
+    border-radius: 20px;
+    font-size:15px;
+    color: black;
+    background-color: grey;
+    box-shadow: 0 0 5px #000,
+                0 0 10px #000;
+    left: 45%;
+}
+
+
+.Modal {
+    height: 350px;
+    width: 30%;
+    padding-top: 10px;
+    background-color: grey;
+    text-align: center;
+    color: Black;
+    position:fixed ;
+    top: 150px;
+    left: 33%;
+    z-index: 2;
+    box-shadow: 0 0 5px #000,
+                0 0 10px #000;
+}   
